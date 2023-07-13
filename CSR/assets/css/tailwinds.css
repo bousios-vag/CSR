@@ -1052,6 +1052,14 @@ video {
     height: 50vh;
   }
 
+  .lg\:h-\[500px\] {
+    height: 500px;
+  }
+
+  .lg\:min-h-\[620px\] {
+    min-height: 620px;
+  }
+
   .lg\:max-w-\[350px\] {
     max-width: 350px;
   }
@@ -1284,5 +1292,10 @@ video {
   .xl\:text-3xl {
     font-size: 1.875rem;
     line-height: 2.25rem;
+  }
+
+  .xl\:text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
   }
 }
