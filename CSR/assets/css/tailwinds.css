@@ -559,6 +559,10 @@ video {
   margin-top: 3rem;
 }
 
+.mt-16 {
+  margin-top: 4rem;
+}
+
 .block {
   display: block;
 }
@@ -1184,6 +1188,10 @@ video {
 
   .xl\:col-start-3 {
     grid-column-start: 3;
+  }
+
+  .xl\:mt-28 {
+    margin-top: 7rem;
   }
 
   .xl\:flex {
