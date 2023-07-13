@@ -1044,14 +1044,6 @@ video {
     display: grid;
   }
 
-  .lg\:h-\[43vh\] {
-    height: 43vh;
-  }
-
-  .lg\:h-\[50vh\] {
-    height: 50vh;
-  }
-
   .lg\:h-\[500px\] {
     height: 500px;
   }
@@ -1279,6 +1271,11 @@ video {
     line-height: 2.5rem;
   }
 
+  .xl\:text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+
   .xl\:text-6xl {
     font-size: 3.75rem;
     line-height: 1;
@@ -1292,10 +1289,5 @@ video {
   .xl\:text-3xl {
     font-size: 1.875rem;
     line-height: 2.25rem;
-  }
-
-  .xl\:text-base {
-    font-size: 1rem;
-    line-height: 1.5rem;
   }
 }
