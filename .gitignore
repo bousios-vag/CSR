@@ -1,0 +1,15 @@
+**/.sass-cache
+.directory
+.Thumbs.db
+.DS_Store
+node_modules
+**/node_modules
+**/package-lock.json
+_src/*.xd
+_src/*
+**/*.xd
+src/*
+dist/*
+assets/*
+Readme.md
+guplpfile.js
